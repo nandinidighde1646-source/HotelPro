@@ -149,3 +149,6 @@ npm test        # Jest + Supertest against a temporary in-memory MongoDB replica
 - Helmet security headers; CORS restricted to configured origins
 - Rate limiting on authentication endpoints (100 requests / 15 min)
 - Simulated payments only — never store card numbers or CVV
+
+- ## Links
+Demo video - https://youtu.be/6Vy-kVg4SHA
