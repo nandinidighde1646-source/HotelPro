@@ -1,0 +1,2 @@
+# Point the React app at the Express server. Leave unset to use browser-only demo mode.
+VITE_API_URL=http://localhost:5000
