@@ -13,6 +13,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
     tsconfigPaths({ projects: ["./tsconfig.json"] }),
-    nitro({ preset: "cloudflare-module" }),
+   nitro(),
   ],
 });
