@@ -152,4 +152,4 @@ npm test        # Jest + Supertest against a temporary in-memory MongoDB replica
 
 - ## Links
 Demo video - https://youtu.be/6Vy-kVg4SHA
-live project link - https://hotelpro-app.netlify.app
+Live project link - https://hotelpro-app.netlify.app
